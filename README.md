@@ -73,3 +73,4 @@ Frontend : [JaJaLand](https://github.com/geforce6t/JaJaLand-Frontend)
 ## Developers 
 * Shashwat
 
+This is a cool project to learn peer to peer chart.
